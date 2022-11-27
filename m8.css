@@ -1,0 +1,38 @@
+p {
+  color: white;}
+#Tituloprincipal {
+  text-align: center;
+  color: white;
+  font-family: "Sofia", sans-serif;
+}
+.center {
+  text-align: center;
+  color: red;
+}  p.center {
+  text-align: center;
+  color: green;
+}
+body {
+  background-color: #1A1A1A;
+}
+p.dotted {border-style: dotted;}
+p.one {
+  border-style: solid;
+  border-color: red;
+}
+#div1 *{
+    color: cyan;
+}
+
+#despues *{
+          color:white;
+}          
+
+table, th, td {
+  border: 1px solid;
+}
+
+p.double {border-style: double;}
+p {
+  color: darkcyan;}
+  #siu }
